@@ -26,7 +26,7 @@ while(i<=n-3){resultado=a+b; a=b; b=resultado; ++i}
 console.log(resultado)
 }
 
-// 0+1=1+1=2+1=3+2=5+3=8+5=13+8=21
-// para i=0 resultado 1, para i=1 resultado 2, para i=2 resultado 4, para i=3 resultado 7, para i=4 resultado 11, para i=5 resultado 16, para i=6 resultado 22
+
+
 
 fibonacci(yarg.b);
