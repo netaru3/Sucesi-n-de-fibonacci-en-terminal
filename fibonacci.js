@@ -13,9 +13,9 @@ if(/^\d+$/.test(argv.b)===false){throw new Error("ingrese un número");
 };return true}).parseSync()
 
 let i=0
-let a=0
-let resultado=0
-let b=1
+let a=0n
+let resultado=0n
+let b=1n
  
 function fibonacci(n){
 if(n==1){console.log(0); return 0}
@@ -30,3 +30,4 @@ console.log(resultado)
 
 
 fibonacci(yarg.b);
+
