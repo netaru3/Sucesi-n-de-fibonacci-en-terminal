@@ -1,6 +1,6 @@
 Pasos para usar fibonacci.js
 
-1:(instala yargs) npm i yargs
+1:(instala yargs y node.js) npm i yargs
 
 2:(ejecuta el codigo usando -b como parámetro de la posición de la sucesión) node fibonacci.js -b [numero]
 
